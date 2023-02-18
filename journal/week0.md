@@ -14,6 +14,18 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 ![Proof of AWS CLI](Assets/Proof-of-CLI-week-0.png)
 
+## Billing alert
+
+I set my billing alert to $35.
+Here is the screenshot of my billing alert 
+![Billing alert](Assets/Billing-alert-week-0.png)
+
+## Budget
+
+I set my Budget to $40.
+Here is the screenshot of my Budget
+![Budget](Assets/Budget-week-0.png)
+
 
 
 

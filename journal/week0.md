@@ -9,10 +9,10 @@ I deceided not to use Gitpod so as to preserve Gitpod free credit for computing 
 So i used the local environment.
 here is the proof of my confifuration on my window:
 
-
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
+![Proof of AWS CLI](Assets/proof-of-CLI-week-0.png)
 
 
 

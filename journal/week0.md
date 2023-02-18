@@ -12,7 +12,7 @@ here is the proof of my confifuration on my window:
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
-![Proof of AWS CLI](Assets/proof-of-CLI-week-0.png)
+![Proof of AWS CLI](Assets/Proof-of-CLI-week-0.png)
 
 
 

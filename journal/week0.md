@@ -2,4 +2,4 @@
 
 ## Recreate conceptual diagram
 
-![Conceptual diagram](Assets/Conceptual diagram week 0.png)
+![Conceptual diagram](Assets/Conceptual-diagram-week-0.png)

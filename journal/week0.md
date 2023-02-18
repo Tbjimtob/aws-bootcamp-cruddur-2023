@@ -27,14 +27,14 @@ Here is the screenshot of my Budget
 ![Budget](Assets/Budget-week-0.png)
 
 
-## Recreate a logical diagram
+## Cruddur logical diagram
 
 ![Logical diagram](Assets/Logical-diagram-week-0.png)
 Here is the[Link](https://lucid.app/lucidchart/722461c4-e0ee-4315-988f-7d3c0344f854/edit?invitationId=inv_e695b989-c290-4779-b055-81a430b3c811&page=exryeL7mQxpm#)
 
 
 
-## Recreate a Napkin
+## Cruddur Napkin
 
 ![Napkin](Assets/Conceptual-diagram-week-0.png)
 Here is the [link](https://lucid.app/lucidchart/722461c4-e0ee-4315-988f-7d3c0344f854/edit?viewport_loc=-205%2C-381%2C2219%2C1055%2C0_0&invitationId=inv_e695b989-c290-4779-b055-81a430b3c811)
